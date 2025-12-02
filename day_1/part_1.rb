@@ -1,4 +1,4 @@
-INPUT_PATH="part_1_input.txt"
+INPUT_PATH="part_1_dummy.txt"
 DUMMY_INPUT_PATH="part_1_dummy.txt"
 
 lines = IO.read(INPUT_PATH).split("\n")
