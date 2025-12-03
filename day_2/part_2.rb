@@ -1,5 +1,5 @@
 DUMMY_INPUT_PATH="part_1_dummy.txt"
-INPUT_PATH="part_1_input.txt"
+INPUT_PATH="i"
 ranges = File.read(INPUT_PATH).split(",")
 
 def invalid_id_check(id)
