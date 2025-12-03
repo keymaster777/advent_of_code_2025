@@ -7,6 +7,6 @@
 - Running either solution from the command line outputs the answer if ran via irb
 - Rough drafts dir shows refinement process
 ```ruby
-irb part_1_golf.rb
-irb part_2_golf.rb
+irb part_1_golf.rb # Expected output: 17383
+irb part_2_golf.rb # Expected output: 172601598658203
 ```
