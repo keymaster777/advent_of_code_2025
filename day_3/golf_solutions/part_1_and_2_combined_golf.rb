@@ -1,1 +1,1 @@
-f=->l{$*[0].lines.sum{c=_1.chomp.chars;a=[];l.times{|i|a<<c[0..i-l].max;c=c[c.index(a[-1])+1..]};a.join.to_i}};[f[2],f[12]]
+[2,12].map{|l|$*[0].split.sum{c=_1.chars;a=[];l.times{|i|a<<c[0..i-l].max;c=c[c.index(a[-1])+1..]};a.join.to_i}}

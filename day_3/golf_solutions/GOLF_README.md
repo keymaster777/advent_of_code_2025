@@ -1,7 +1,7 @@
 ## Day 3 Golf Solutions
-- part 1 size: 80 bytes
-- part 2 size: 105 bytes
-- combined solution size: 123 bytes (If combined allowed)
+- part 1 size: 73 bytes
+- part 2 size: 99 bytes
+- combined solution size: 112 bytes (If combined allowed)
 
 ### Notes
 - Input file name changed to 'i' to save space
